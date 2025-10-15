@@ -50,13 +50,6 @@ My interests include **machine learning, natural language processing, and AI-int
 
 ---
 
-## Current Work
-
-- Developing **Technocrats**, a transportation-focused platform integrating Bluetooth/Wi-Fi-based hardware with AI-driven analytics.  
-- Building a **MongoDB AI Agent System** that interprets natural language queries and executes corresponding database operations.
-
----
-
 ## Contact
 
 - 📧 Email: [abinivas.gs@gmail.com](mailto:abinivas.gs@gmail.com)  
