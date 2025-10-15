@@ -1,32 +1,29 @@
 <h1 align="center">
   👋 Hi, I'm G S Abinivas
 </h1>
-<h3 align="center">🚀 Aspiring Machine Learning Engineer | AI & ML Student @ Sri Eshwar College of Engineering</h3>
+<h3 align="center">🤖 AI & ML Enthusiast | Student @ Sri Eshwar College of Engineering</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abi6374&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/abi6374?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=flat-square&logo=ai" alt="Focus"/>
 </p>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Animation"/>
 </div>
 
 ---
 
 ## 💡 About Me
 
-I'm **G S Abinivas**, a passionate **AI and Machine Learning student** at *Sri Eshwar College of Engineering*, with a strong interest in building intelligent systems that solve real-world problems.  
+I'm **G S Abinivas**, an **AI & Machine Learning student** passionate about building smart systems and developing AI-driven solutions that make an impact.  
 
-I’m currently exploring **Machine Learning**, **Artificial Intelligence**, and **Computer Vision**, and I enjoy turning ideas into practical, data-driven solutions.  
+I enjoy working with **Python**, exploring **Machine Learning**, **Artificial Intelligence**, and **IoT-based automation**.  
+Currently, I’m enhancing my skills in **ML model development**, **data handling**, and **integrating hardware devices with AI**.  
 
-My tech stack includes **Python, C, C++, and SQL**, and I often work with frameworks like **TensorFlow, Scikit-Learn, and Flask**.  
+I believe in continuous learning, collaboration, and innovation — always striving to improve and stay at the edge of technology.  
 
-I’m always eager to learn, collaborate, and contribute to innovative AI projects.  
-My ultimate goal is to become a **Machine Learning Engineer at Google** within the next few years 🚀.  
-
-> “I debug AI models more often than I debug my life 🤖”
+> “Building intelligent systems is not just my goal — it’s my curiosity turned into code.”
 
 ---
 
@@ -34,17 +31,17 @@ My ultimate goal is to become a **Machine Learning Engineer at Google** within t
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,flask,react,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,flask" alt="Languages"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🧩 Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
 </p>
 
 ---
@@ -53,28 +50,21 @@ My ultimate goal is to become a **Machine Learning Engineer at Google** within t
 
 <div align="center">
   <a href="https://github.com/abi6374">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abi6374&show_icons=true&theme=radical&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi6374&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abi6374&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi6374&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </a>
 </div>
 
 ---
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abi6374&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abi6374&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abi6374&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/g-s-abinivas" target="_blank">
@@ -84,15 +74,11 @@ My ultimate goal is to become a **Machine Learning Engineer at Google** within t
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/abi6374" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abi6374/abi6374/output/snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding"/>
