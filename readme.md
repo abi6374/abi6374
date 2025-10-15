@@ -19,7 +19,7 @@
 I'm **G S Abinivas**, an **AI & Machine Learning student** at *Sri Eshwar College of Engineering*, passionate about building intelligent systems that solve real-world challenges.  
 
 I’m deeply interested in **Machine Learning**, **Artificial Intelligence**, and **IoT-based Automation**.  
-I love turning ideas into data-driven solutions using **Python**, **Flask**, **MySQL**, and **MongoDB**.  
+I enjoy turning ideas into data-driven solutions using **Python**, **Flask**, **MySQL**, and **MongoDB**.  
 
 I’m currently sharpening my problem-solving and algorithmic thinking skills through **competitive programming** and **AI projects**.  
 
@@ -64,10 +64,10 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
 
 ---
 
-## 💻 Competitive Programming Profiles
+## 💻 Competitive Programming & AI Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/abinivas8/" target="_blank">
+  <a href="https://leetcode.com/abinivas8/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/abinivas8" target="_blank">
@@ -75,6 +75,12 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
   </a>
   <a href="https://auth.geeksforgeeks.org/user/abinivas8/practice/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://www.kaggle.com/abinivas8" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://huggingface.co/abinivas8" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FB923C?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
   </a>
 </p>
 
