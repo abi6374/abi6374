@@ -16,12 +16,12 @@
 
 ## 💡 About Me
 
-I'm **G S Abinivas**, an **AI & Machine Learning student** passionate about building smart systems and developing AI-driven solutions that make an impact.  
+I'm **G S Abinivas**, an **AI & Machine Learning student** at *Sri Eshwar College of Engineering*, passionate about building intelligent systems that solve real-world challenges.  
 
-I enjoy working with **Python**, exploring **Machine Learning**, **Artificial Intelligence**, and **IoT-based automation**.  
-Currently, I’m enhancing my skills in **ML model development**, **data handling**, and **integrating hardware devices with AI**.  
+I’m deeply interested in **Machine Learning**, **Artificial Intelligence**, and **IoT-based Automation**.  
+I love turning ideas into data-driven solutions using **Python**, **Flask**, **MySQL**, and **MongoDB**.  
 
-I believe in continuous learning, collaboration, and innovation — always striving to improve and stay at the edge of technology.  
+I’m currently sharpening my problem-solving and algorithmic thinking skills through **competitive programming** and **AI projects**.  
 
 > “Building intelligent systems is not just my goal — it’s my curiosity turned into code.”
 
@@ -34,7 +34,7 @@ I believe in continuous learning, collaboration, and innovation — always striv
   <img src="https://skillicons.dev/icons?i=python,c,cpp,flask" alt="Languages"/>
 </p>
 
-### 🧩 Databases
+### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
 </p>
@@ -61,6 +61,22 @@ I believe in continuous learning, collaboration, and innovation — always striv
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abi6374&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
+
+---
+
+## 💻 Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/abinivas8/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/abinivas8" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abinivas8/practice/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
 
 ---
 
