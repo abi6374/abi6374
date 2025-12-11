@@ -12,8 +12,6 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Animation"/>
 </div>
 
----
-
 ## 💡 About Me
 
 I'm **G S Abinivas**, an **AI & Machine Learning student** at *Sri Eshwar College of Engineering*, passionate about building intelligent systems that solve real-world challenges.  
@@ -25,7 +23,6 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
 
 > “Building intelligent systems is not just my goal — it’s my curiosity turned into code.”
 
----
 
 ## 🧠 Tech Stack
 
@@ -43,7 +40,6 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
 </p>
----
 
 ## 📊 GitHub Stats
 
@@ -51,13 +47,11 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
 <a href="https://github.com/abi6374"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=abi6374&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/></a> <a href="https://github.com/abi6374"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi6374&layout=compact&theme=tokyonight" alt="Top Languages"/></a>
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 </div>
-<a href="https://github.com/abi6374"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=abi6374&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/></a>---
+<a href="https://github.com/abi6374"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=abi6374&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/></a>
 
 ## 💻 Competitive Programming & AI Profiles
 
@@ -79,23 +73,15 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
   </a>
 </p>
 
----
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abinivas8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abinivas8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abi6374" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/abinivas8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abinivas8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/abi6374"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/abinivas8"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding"/>
