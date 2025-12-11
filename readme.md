@@ -48,8 +48,7 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abi6374&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi6374&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<a href="https://github.com/abi6374"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=abi6374&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/></a> <a href="https://github.com/abi6374"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi6374&layout=compact&theme=tokyonight" alt="Top Languages"/></a>
 </div>
 
 ---
@@ -57,10 +56,8 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abi6374&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
-
----
+<a href="https://github.com/abi6374"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=abi6374&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/></a>---
 
 ## 💻 Competitive Programming & AI Profiles
 
