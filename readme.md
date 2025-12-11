@@ -43,21 +43,19 @@ I’m currently sharpening my problem-solving and algorithmic thinking skills th
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/abi6374">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abi6374&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi6374&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abi6374&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi6374&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abi6374&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
